@@ -9,7 +9,7 @@
 <img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/NicholasEdelson/..../master/jb%20game%20snap.PNG">
 
 
-<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/NicholasEdelson/..../master/jb%20how%20to%20play.PNG">      height="500"
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/NicholasEdelson/..../master/jb%20how%20to%20play.PNG"     height="500">
 
 
 <img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/NicholasEdelson/..../master/jb%20story.PNG" width="500" height="500" >
