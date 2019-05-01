@@ -12,4 +12,4 @@
 <img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/NicholasEdelson/..../master/jb%20how%20to%20play.PNG">
 
 
-<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/NicholasEdelson/..../master/jb%20story.PNG">
+<img style="-webkit-user-select: none;" src="https://raw.githubusercontent.com/NicholasEdelson/..../master/jb%20story.PNG" width="500" height="500" >
